@@ -26,7 +26,7 @@ While this is a personal project, suggestions for improvement are welcome. Pleas
 ## 📬 Contact Me
 **📧 Email**: mitratanmoy.butex@gmail.com
 
-**🌐 Portfolio**: tanmoymitra-codes.github.io/TanmoyMitra.portfolio
+**🌐 Portfolio**: [tanmoymitra-codes.github.io/TanmoyMitra.portfolio](https://tanmoymitra-codes.github.io/TanmoyMitra.portfolio/)
 
 
 
